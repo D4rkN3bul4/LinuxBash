@@ -1,4 +1,5 @@
 #!/bin/bash
+#Put this comment in
 LOG_FILE="/var/log/update_script.log"
 
 {
